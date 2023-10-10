@@ -17,6 +17,10 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"obj_example_waterCooler","order":2,"path":"objects/obj_example_waterCooler/obj_example_waterCooler.yy",},
+    {"name":"Sprite4","order":3,"path":"sprites/Sprite4/Sprite4.yy",},
+    {"name":"spr_example_waterCooler","order":2,"path":"sprites/spr_example_waterCooler/spr_example_waterCooler.yy",},
+    {"name":"obj_enemy","order":3,"path":"objects/obj_enemy/obj_enemy.yy",},
     {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
     {"name":"spr_example_background","order":1,"path":"sprites/spr_example_background/spr_example_background.yy",},
   ],
