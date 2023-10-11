@@ -18,10 +18,14 @@
   ],
   "ResourceOrderSettings": [
     {"name":"obj_example_waterCooler","order":2,"path":"objects/obj_example_waterCooler/obj_example_waterCooler.yy",},
+    {"name":"spr_cubicle","order":4,"path":"sprites/spr_cubicle/spr_cubicle.yy",},
     {"name":"Sprite4","order":3,"path":"sprites/Sprite4/Sprite4.yy",},
     {"name":"spr_example_waterCooler","order":2,"path":"sprites/spr_example_waterCooler/spr_example_waterCooler.yy",},
     {"name":"obj_enemy","order":3,"path":"objects/obj_enemy/obj_enemy.yy",},
+    {"name":"Path2","order":6,"path":"paths/Path2/Path2.yy",},
+    {"name":"obj_cubicle","order":4,"path":"objects/obj_cubicle/obj_cubicle.yy",},
     {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"Path1","order":5,"path":"paths/Path1/Path1.yy",},
     {"name":"spr_example_background","order":1,"path":"sprites/spr_example_background/spr_example_background.yy",},
   ],
 }
