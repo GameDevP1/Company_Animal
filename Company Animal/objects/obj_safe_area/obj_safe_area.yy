@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_cubicle",
+  "name": "obj_safe_area",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
