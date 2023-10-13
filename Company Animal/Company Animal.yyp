@@ -31,7 +31,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.2.108",
+    "IDEVersion": "2023.800.0.406",
   },
   "resources": [
     {"id":{"name":"obj_example_waterCooler","path":"objects/obj_example_waterCooler/obj_example_waterCooler.yy",},},
