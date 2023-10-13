@@ -13,9 +13,9 @@
     {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
     {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"Player Sprites","order":10,"path":"folders/Sprites/Player Sprites.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"Player Sprites","order":10,"path":"folders/Sprites/Player Sprites.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"Object6","order":7,"path":"objects/Object6/Object6.yy",},
@@ -29,9 +29,12 @@
     {"name":"obj_enemy_test","order":3,"path":"objects/obj_enemy_test/obj_enemy_test.yy",},
     {"name":"Path2","order":6,"path":"paths/Path2/Path2.yy",},
     {"name":"spr_player_walk_left","order":1,"path":"sprites/spr_player_walk_left/spr_player_walk_left.yy",},
+    {"name":"Room3_meeting","order":2,"path":"rooms/Room3_meeting/Room3_meeting.yy",},
     {"name":"spr_player_walk_up","order":3,"path":"sprites/spr_player_walk_up/spr_player_walk_up.yy",},
     {"name":"obj_safe_area","order":4,"path":"objects/obj_safe_area/obj_safe_area.yy",},
     {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"Room4_vending","order":3,"path":"rooms/Room4_vending/Room4_vending.yy",},
     {"name":"spr_example_background","order":1,"path":"sprites/spr_example_background/spr_example_background.yy",},
+    {"name":"Room2_printer","order":1,"path":"rooms/Room2_printer/Room2_printer.yy",},
   ],
 }
