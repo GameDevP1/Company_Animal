@@ -1,12 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_player",
+  "name": "obj_game",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_enemy_test","path":"objects/obj_enemy_test/obj_enemy_test.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":80,"eventType":9,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -30,10 +28,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_player_walk_down",
-    "path": "sprites/spr_player_walk_down/spr_player_walk_down.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
