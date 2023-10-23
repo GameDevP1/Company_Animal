@@ -1,7 +1,7 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "inventory",
+  "name": "switch_item",
   "isCompatibility": false,
   "isDnD": false,
   "parent": {

@@ -1,6 +1,4 @@
 
-function inventory(){
-	
 	
 	// ************ ITEM LIST ***************** // use for inventory changing
 	// 1 - Snack
@@ -10,13 +8,6 @@ function inventory(){
 	// 5 - **
 	// 6 - **
 	
-	
-	function switch_item() 
-	{
-	
+	function switch_item(num) {
+		global.current_item[1] = num;
 	}
-	
-	
-	
-	
-}
