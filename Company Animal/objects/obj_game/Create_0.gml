@@ -6,7 +6,7 @@ global.timer = 0;
 
 global.day = 1;
 
-global.current_item = [1];
+global.current_item = -1
 global.item_num = -1;
 // will make list of items that is numbered
 // food = 1, ink = 2 etc

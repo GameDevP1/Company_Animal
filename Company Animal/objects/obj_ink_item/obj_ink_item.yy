@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_snack_item",
+  "name": "obj_ink_item",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_snack",
-    "path": "sprites/spr_snack/spr_snack.yy",
+    "name": "spr_ink",
+    "path": "sprites/spr_ink/spr_ink.yy",
   },
   "spriteMaskId": null,
   "visible": true,

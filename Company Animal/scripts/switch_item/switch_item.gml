@@ -9,5 +9,5 @@
 	// 6 - **
 	
 	function switch_item(num) {
-		global.current_item[1] = num;
+		global.current_item = num;
 	}

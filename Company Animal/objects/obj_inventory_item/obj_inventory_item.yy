@@ -27,7 +27,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_invetory_slot",
+    "path": "sprites/spr_invetory_slot/spr_invetory_slot.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
