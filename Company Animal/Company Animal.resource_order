@@ -22,6 +22,7 @@
     {"name":"obj_timer","order":7,"path":"objects/obj_timer/obj_timer.yy",},
     {"name":"obj_button_quit","order":12,"path":"objects/obj_button_quit/obj_button_quit.yy",},
     {"name":"obj_snack_item","order":18,"path":"objects/obj_snack_item/obj_snack_item.yy",},
+    {"name":"spr_paper","order":14,"path":"sprites/spr_paper/spr_paper.yy",},
     {"name":"obj_button_play","order":10,"path":"objects/obj_button_play/obj_button_play.yy",},
     {"name":"obj_example_waterCooler","order":2,"path":"objects/obj_example_waterCooler/obj_example_waterCooler.yy",},
     {"name":"spr_player_walk_right","order":2,"path":"sprites/spr_player_walk_right/spr_player_walk_right.yy",},
@@ -56,6 +57,7 @@
     {"name":"obj_printer","order":14,"path":"objects/obj_printer/obj_printer.yy",},
     {"name":"spr_example_background","order":1,"path":"sprites/spr_example_background/spr_example_background.yy",},
     {"name":"Room2_printer","order":1,"path":"rooms/Room2_printer/Room2_printer.yy",},
+    {"name":"obj_printer_paper","order":21,"path":"objects/obj_printer_paper/obj_printer_paper.yy",},
     {"name":"Menu","order":4,"path":"rooms/Menu/Menu.yy",},
   ],
 }
