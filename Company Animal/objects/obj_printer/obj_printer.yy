@@ -26,10 +26,10 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": false,
+  "solid": true,
   "spriteId": {
-    "name": "Sprite13",
-    "path": "sprites/Sprite13/Sprite13.yy",
+    "name": "spr_printer",
+    "path": "sprites/spr_printer/spr_printer.yy",
   },
   "spriteMaskId": null,
   "visible": true,

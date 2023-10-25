@@ -1,6 +1,3 @@
-//test comment
-
-
 
 rightkey = keyboard_check(ord("D"));
 leftkey = keyboard_check(ord("A"));
@@ -42,7 +39,6 @@ if x == xprevious && y == yprevious{ // if the player is standing still make the
     
     image_speed = 0.4
 }
-
 
 
 if (place_meeting(x, y, obj_safe_area )) {
