@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "Office_Tileset",
-  "bbox_bottom": 639,
+  "bbox_bottom": 223,
   "bbox_left": 0,
-  "bbox_right": 639,
+  "bbox_right": 627,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"fb1beef0-e51e-4136-8a8f-a79628763f5f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7e99f9b2-24d0-48cc-a4d9-70a79ec32201",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 640,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"80f4954a-9a56-4e0b-9a94-8e18745a1062","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"0290c6d0-b7b2-4e0b-9759-1853bdb59550","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"fb1beef0-e51e-4136-8a8f-a79628763f5f","path":"sprites/Office_Tileset/Office_Tileset.yy",},},},"Disabled":false,"id":"4f68153d-2ab2-467b-8e5d-1023a0f5fd28","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"7e99f9b2-24d0-48cc-a4d9-70a79ec32201","path":"sprites/Office_Tileset/Office_Tileset.yy",},},},"Disabled":false,"id":"fbe5e54e-4fd4-4903-a79c-b9bba0c25c8c","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
