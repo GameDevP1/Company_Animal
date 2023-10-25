@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_example_waterCooler",
-  "bbox_bottom": 63,
-  "bbox_left": 16,
-  "bbox_right": 46,
-  "bbox_top": 9,
+  "bbox_bottom": 30,
+  "bbox_left": 6,
+  "bbox_right": 25,
+  "bbox_top": 1,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ecba0b62-953c-4480-9cb6-72905c97ed9a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5dc63019-c039-4528-9b3e-96bd1621dbfd",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 64,
+  "height": 32,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"f8873018-825d-45a0-866a-8298d44c3755","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"70f870e4-71b7-4585-8b40-4bc130b1ec2f","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"ecba0b62-953c-4480-9cb6-72905c97ed9a","path":"sprites/spr_example_waterCooler/spr_example_waterCooler.yy",},},},"Disabled":false,"id":"dfb5b599-3eb8-43f4-b569-2bdd85d91bac","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"5dc63019-c039-4528-9b3e-96bd1621dbfd","path":"sprites/spr_example_waterCooler/spr_example_waterCooler.yy",},},},"Disabled":false,"id":"8f1f4ec8-f741-4c8a-8f21-c2b54632fbb2","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 64,
+  "width": 32,
 }
