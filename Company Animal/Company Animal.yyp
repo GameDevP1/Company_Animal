@@ -32,11 +32,12 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.2.108",
+    "IDEVersion": "2023.800.0.406",
   },
   "resources": [
     {"id":{"name":"obj_item_parent","path":"objects/obj_item_parent/obj_item_parent.yy",},},
     {"id":{"name":"obj_timer","path":"objects/obj_timer/obj_timer.yy",},},
+    {"id":{"name":"spr_cup","path":"sprites/spr_cup/spr_cup.yy",},},
     {"id":{"name":"obj_button_quit","path":"objects/obj_button_quit/obj_button_quit.yy",},},
     {"id":{"name":"obj_snack_item","path":"objects/obj_snack_item/obj_snack_item.yy",},},
     {"id":{"name":"spr_paper","path":"sprites/spr_paper/spr_paper.yy",},},
@@ -64,6 +65,7 @@
     {"id":{"name":"Path2","path":"paths/Path2/Path2.yy",},},
     {"id":{"name":"obj_view_controller","path":"objects/obj_view_controller/obj_view_controller.yy",},},
     {"id":{"name":"spr_player_walk_left","path":"sprites/spr_player_walk_left/spr_player_walk_left.yy",},},
+    {"id":{"name":"obj_cup","path":"objects/obj_cup/obj_cup.yy",},},
     {"id":{"name":"Room3_meeting","path":"rooms/Room3_meeting/Room3_meeting.yy",},},
     {"id":{"name":"fnt_menu","path":"fonts/fnt_menu/fnt_menu.yy",},},
     {"id":{"name":"obj_inventory_item","path":"objects/obj_inventory_item/obj_inventory_item.yy",},},

@@ -20,6 +20,7 @@
   "ResourceOrderSettings": [
     {"name":"obj_item_parent","order":15,"path":"objects/obj_item_parent/obj_item_parent.yy",},
     {"name":"obj_timer","order":7,"path":"objects/obj_timer/obj_timer.yy",},
+    {"name":"spr_cup","order":16,"path":"sprites/spr_cup/spr_cup.yy",},
     {"name":"obj_button_quit","order":12,"path":"objects/obj_button_quit/obj_button_quit.yy",},
     {"name":"obj_snack_item","order":18,"path":"objects/obj_snack_item/obj_snack_item.yy",},
     {"name":"spr_paper","order":14,"path":"sprites/spr_paper/spr_paper.yy",},
@@ -44,6 +45,7 @@
     {"name":"rm_game","order":5,"path":"rooms/rm_game/rm_game.yy",},
     {"name":"obj_view_controller","order":13,"path":"objects/obj_view_controller/obj_view_controller.yy",},
     {"name":"spr_player_walk_left","order":1,"path":"sprites/spr_player_walk_left/spr_player_walk_left.yy",},
+    {"name":"obj_cup","order":22,"path":"objects/obj_cup/obj_cup.yy",},
     {"name":"Room3_meeting","order":2,"path":"rooms/Room3_meeting/Room3_meeting.yy",},
     {"name":"obj_inventory_item","order":16,"path":"objects/obj_inventory_item/obj_inventory_item.yy",},
     {"name":"spr_snack","order":9,"path":"sprites/spr_snack/spr_snack.yy",},
