@@ -8,6 +8,10 @@ if(distance_to_object(obj_player)<=200){
 	if mouse_check_button_pressed(mb_left) and position_meeting(mouse_x, mouse_y, obj_printer){
 		if activity == 0{
 			draw_text(x+100,y,"Get the ink to fix the printer!")
+			if(instance_number(obj_ink_item)>0){
+				instance_destroy(obj_ink_item)
+			}
+			if global.current_item!=2 then instance_create_layer(random(room_width),random(room_height),"Instances",obj_ink_item)
 			if global.current_item==2{
 				draw_text(x,y,"Well done!")
 				global.current_item= -1
@@ -16,6 +20,10 @@ if(distance_to_object(obj_player)<=200){
 		}
 		if activity==1{
 			draw_text(x,y,"Get the paper for the printer!")
+			if(instance_number(obj_ink_item)>0){
+				instance_destroy(obj_printer_paper)
+			}
+			if global.current_item !=3 then instance_create_layer(random(room_width),random(room_height),"Instances",obj_printer_paper)
 			if(global.current_item==3){
 				draw_text(x,y,"Well done!")
 				global.current_item=-1
