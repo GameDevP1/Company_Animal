@@ -4,7 +4,7 @@ draw_set_halign(fa_left)
 draw_set_valign(fa_bottom)
 draw_set_alpha(1)
 
-if(distance_to_object(obj_player)<=200){
+if(distance_to_object(obj_player)<=50){
 	if mouse_check_button_pressed(mb_left) and position_meeting(mouse_x, mouse_y, obj_printer){
 		if activity == 0{
 			draw_text(x+100,y,"Get the ink to fix the printer!")
