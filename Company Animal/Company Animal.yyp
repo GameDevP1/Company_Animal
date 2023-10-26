@@ -32,7 +32,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.800.0.406",
+    "IDEVersion": "2023.8.2.108",
   },
   "resources": [
     {"id":{"name":"obj_item_parent","path":"objects/obj_item_parent/obj_item_parent.yy",},},
@@ -79,7 +79,6 @@
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},},
     {"id":{"name":"spr_item3","path":"sprites/spr_item3/spr_item3.yy",},},
     {"id":{"name":"fnt_text","path":"fonts/fnt_text/fnt_text.yy",},},
-    {"id":{"name":"Room4_vending","path":"rooms/Room4_vending/Room4_vending.yy",},},
     {"id":{"name":"obj_printer","path":"objects/obj_printer/obj_printer.yy",},},
     {"id":{"name":"spr_example_background","path":"sprites/spr_example_background/spr_example_background.yy",},},
     {"id":{"name":"obj_printer_paper","path":"objects/obj_printer_paper/obj_printer_paper.yy",},},
@@ -90,7 +89,6 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"roomId":{"name":"Room3_meeting","path":"rooms/Room3_meeting/Room3_meeting.yy",},},
-    {"roomId":{"name":"Room4_vending","path":"rooms/Room4_vending/Room4_vending.yy",},},
     {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
   ],
   "templateType": null,

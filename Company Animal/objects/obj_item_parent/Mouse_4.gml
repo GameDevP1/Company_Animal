@@ -15,7 +15,8 @@ if (global.current_item > 0) {
 		instance_create_layer(mouse_x, mouse_y, "Instances", obj_printer_paper);
 	}
 	if global.current_item = 4 {
-	
+		instance_destroy();
+		instance_create_layer(mouse_x, mouse_y, "Instances", obj_cup);
 	}
 	if global.current_item = 5 {
 	

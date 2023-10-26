@@ -58,7 +58,6 @@
     {"name":"spr_wall","order":13,"path":"sprites/spr_wall/spr_wall.yy",},
     {"name":"spr_item3","order":12,"path":"sprites/spr_item3/spr_item3.yy",},
     {"name":"fnt_text","order":1,"path":"fonts/fnt_text/fnt_text.yy",},
-    {"name":"Room4_vending","order":3,"path":"rooms/Room4_vending/Room4_vending.yy",},
     {"name":"obj_printer","order":14,"path":"objects/obj_printer/obj_printer.yy",},
     {"name":"spr_example_background","order":1,"path":"sprites/spr_example_background/spr_example_background.yy",},
     {"name":"obj_printer_paper","order":21,"path":"objects/obj_printer_paper/obj_printer_paper.yy",},

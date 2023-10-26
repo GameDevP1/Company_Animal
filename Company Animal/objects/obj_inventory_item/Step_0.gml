@@ -22,7 +22,7 @@ if global.current_item = 3 {
 	sprite_index = spr_paper;
 }
 if global.current_item = 4 {
-	
+	sprite_index = spr_cup;
 }
 if global.current_item = 5 {
 	
