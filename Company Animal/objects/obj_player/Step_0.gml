@@ -1,8 +1,8 @@
 
-rightkey = keyboard_check(ord("D"));
-leftkey = keyboard_check(ord("A"));
-upkey = keyboard_check(ord("W"));
-downkey = keyboard_check(ord("S"));
+var rightkey = keyboard_check(ord("D"));
+var leftkey = keyboard_check(ord("A"));
+var upkey = keyboard_check(ord("W"));
+var downkey = keyboard_check(ord("S"));
 
 xspd = (rightkey - leftkey) * move_spd;
 yspd = (downkey - upkey) * move_spd;

@@ -60,6 +60,7 @@
     {"name":"obj_printer","order":14,"path":"objects/obj_printer/obj_printer.yy",},
     {"name":"spr_example_background","order":1,"path":"sprites/spr_example_background/spr_example_background.yy",},
     {"name":"obj_printer_paper","order":21,"path":"objects/obj_printer_paper/obj_printer_paper.yy",},
+    {"name":"rm_game","order":5,"path":"rooms/rm_game/rm_game.yy",},
     {"name":"Menu","order":4,"path":"rooms/Menu/Menu.yy",},
   ],
 }

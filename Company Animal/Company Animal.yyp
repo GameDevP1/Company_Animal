@@ -83,10 +83,16 @@
     {"id":{"name":"obj_printer_paper","path":"objects/obj_printer_paper/obj_printer_paper.yy",},},
     {"id":{"name":"spr_player_walk_down","path":"sprites/spr_player_walk_down/spr_player_walk_down.yy",},},
     {"id":{"name":"switch_item","path":"scripts/switch_item/switch_item.yy",},},
+    {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
+<<<<<<< Updated upstream
+=======
+    {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
+    {"roomId":{"name":"Room2_printer","path":"rooms/Room2_printer/Room2_printer.yy",},},
+>>>>>>> Stashed changes
     {"roomId":{"name":"Room3_meeting","path":"rooms/Room3_meeting/Room3_meeting.yy",},},
     {"roomId":{"name":"Room4_vending","path":"rooms/Room4_vending/Room4_vending.yy",},},
     {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
