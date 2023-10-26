@@ -9,7 +9,7 @@ global.day = 1;
 global.current_item = -1
 global.item_num = -1;
 // will make list of items that is numbered
-// food = 1, ink = 2 etc
+// food = 1, ink = 2, paper = 3, water = 4
 // in the "inventory" script the items will change 
 // in game the item will simply be a number that will change when grabbed
 

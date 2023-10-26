@@ -19,7 +19,7 @@ if global.current_item = 2 {
 	sprite_index = spr_ink;
 }
 if global.current_item = 3 {
-	sprite_index = spr_item3;
+	sprite_index = spr_paper;
 }
 if global.current_item = 4 {
 	
