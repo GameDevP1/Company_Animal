@@ -12,7 +12,7 @@ if (global.current_item > 0) {
 	}
 	if global.current_item = 3 {
 		instance_destroy();
-		instance_create_layer(mouse_x, mouse_y, "Instances", obj_item3);
+		instance_create_layer(mouse_x, mouse_y, "Instances", obj_printer_paper);
 	}
 	if global.current_item = 4 {
 	
