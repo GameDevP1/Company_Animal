@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_enemy_walk_down",
-    "path": "sprites/spr_enemy_walk_down/spr_enemy_walk_down.yy",
+    "name": "spr_enemy1_walk_down",
+    "path": "sprites/spr_enemy1_walk_down/spr_enemy1_walk_down.yy",
   },
   "spriteMaskId": null,
   "visible": true,

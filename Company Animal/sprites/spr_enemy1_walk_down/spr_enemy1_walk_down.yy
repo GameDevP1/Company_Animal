@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "spr_enemy_walk_down",
+  "name": "spr_enemy1_walk_down",
   "bbox_bottom": 29,
   "bbox_left": 4,
   "bbox_right": 26,
@@ -28,14 +28,14 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Enemy Sprites",
+    "path": "folders/Sprites/Enemy Sprites.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "spr_enemy_walk_down",
+    "name": "spr_enemy1_walk_down",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -57,10 +57,10 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"1d2df02f-8ff6-48b8-b957-0f92565d961e","path":"sprites/spr_enemy_walk_down/spr_enemy_walk_down.yy",},},},"Disabled":false,"id":"e80ca246-a67c-479e-97fb-1c09663c56f5","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"3798f985-6293-4c00-a452-f57101eaef4a","path":"sprites/spr_enemy_walk_down/spr_enemy_walk_down.yy",},},},"Disabled":false,"id":"f231a6c9-becb-4cac-966d-b46711813b7a","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"86e90e2d-57b9-467e-becf-ea9284ecb808","path":"sprites/spr_enemy_walk_down/spr_enemy_walk_down.yy",},},},"Disabled":false,"id":"84056ded-4f78-44c9-ae01-66784de19b0e","IsCreationKey":false,"Key":2.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"519cec1c-6488-47d0-84b0-0de1196dbe33","path":"sprites/spr_enemy_walk_down/spr_enemy_walk_down.yy",},},},"Disabled":false,"id":"b148f652-f858-4aa4-8ec4-2a60f2c1b7fb","IsCreationKey":false,"Key":3.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"1d2df02f-8ff6-48b8-b957-0f92565d961e","path":"sprites/spr_enemy1_walk_down/spr_enemy1_walk_down.yy",},},},"Disabled":false,"id":"e80ca246-a67c-479e-97fb-1c09663c56f5","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"3798f985-6293-4c00-a452-f57101eaef4a","path":"sprites/spr_enemy1_walk_down/spr_enemy1_walk_down.yy",},},},"Disabled":false,"id":"f231a6c9-becb-4cac-966d-b46711813b7a","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"86e90e2d-57b9-467e-becf-ea9284ecb808","path":"sprites/spr_enemy1_walk_down/spr_enemy1_walk_down.yy",},},},"Disabled":false,"id":"84056ded-4f78-44c9-ae01-66784de19b0e","IsCreationKey":false,"Key":2.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"519cec1c-6488-47d0-84b0-0de1196dbe33","path":"sprites/spr_enemy1_walk_down/spr_enemy1_walk_down.yy",},},},"Disabled":false,"id":"b148f652-f858-4aa4-8ec4-2a60f2c1b7fb","IsCreationKey":false,"Key":3.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
