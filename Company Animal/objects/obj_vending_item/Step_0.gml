@@ -7,6 +7,8 @@ if(num==1){
 }if(num==4){
 	sprite_index=spr_snack
 }
+/*this code selects a random sprite for the item
+to be returned from the vending machine */
 if(distance_to_object(obj_player)<=50){
 	global.current_item=1
 	instance_destroy()

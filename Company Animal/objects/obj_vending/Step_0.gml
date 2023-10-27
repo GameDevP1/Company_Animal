@@ -6,4 +6,3 @@ if(distance_to_object(obj_player)<=50){
 		}
 	}
 }
-global.current_item=1
