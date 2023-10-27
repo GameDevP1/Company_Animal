@@ -7,7 +7,7 @@ draw_set_alpha(1)
 if(distance_to_object(obj_player)<=50){
 	if mouse_check_button_pressed(mb_left) and position_meeting(mouse_x, mouse_y, obj_printer){
 		if activity == 0{
-			draw_text(x+100,y,"Get the ink to fix the printer!")
+			//draw_text(x+100,y,"Get the ink to fix the printer!")
 			if(instance_number(obj_ink_item)>0){
 				instance_destroy(obj_ink_item)
 			}
@@ -21,14 +21,16 @@ if(distance_to_object(obj_player)<=50){
 			}
 		}
 		if activity==1{
-			draw_text(x,y,"Get the paper for the printer!")
-			if(instance_number(obj_ink_item)>0){
+			//draw_text(x,y,"Get the paper for the printer!")
+			//instance_create_layer(x + 100, y, "Instances", obj_printer_message)
+			if(instance_number(obj_printer_paper)>0){
 				instance_destroy(obj_printer_paper)
 			}
 			if global.current_item !=3 and instance_number(obj_printer_paper)=0 then instance_create_layer(random(room_width),random(room_height),"Instances",obj_printer_paper)
 			if(global.current_item==3){
 				draw_text(x,y,"Well done!")
 				activity= -1
+				//tasks_completed
 				global.tasks-=1
 			}
 		}

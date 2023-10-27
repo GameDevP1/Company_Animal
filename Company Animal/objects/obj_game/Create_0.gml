@@ -4,6 +4,8 @@ lives = 1;
 global.tasks = 0;
 global.timer = 0;
 
+global.tasks_completed = 0;
+
 global.day = 1;
 
 global.current_item = -1
