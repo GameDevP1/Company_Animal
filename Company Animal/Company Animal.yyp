@@ -83,7 +83,6 @@
     {"id":{"name":"obj_view_controller","path":"objects/obj_view_controller/obj_view_controller.yy",},},
     {"id":{"name":"spr_player_walk_left","path":"sprites/spr_player_walk_left/spr_player_walk_left.yy",},},
     {"id":{"name":"obj_cup","path":"objects/obj_cup/obj_cup.yy",},},
-    {"id":{"name":"Room3_meeting","path":"rooms/Room3_meeting/Room3_meeting.yy",},},
     {"id":{"name":"fnt_menu","path":"fonts/fnt_menu/fnt_menu.yy",},},
     {"id":{"name":"obj_inventory_item","path":"objects/obj_inventory_item/obj_inventory_item.yy",},},
     {"id":{"name":"spr_snack","path":"sprites/spr_snack/spr_snack.yy",},},
@@ -112,7 +111,6 @@
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
-    {"roomId":{"name":"Room3_meeting","path":"rooms/Room3_meeting/Room3_meeting.yy",},},
     {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
   ],
   "templateType": null,

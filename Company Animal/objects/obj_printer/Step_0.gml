@@ -22,7 +22,7 @@ if(distance_to_object(obj_player)<=50){
 		}
 		if activity==1{
 			//draw_text(x,y,"Get the paper for the printer!")
-			//instance_create_layer(x + 100, y, "Instances", obj_printer_message)
+			instance_create_layer(x + 100, y, "Instances", obj_printer_message)
 			if(instance_number(obj_printer_paper)>0){
 				instance_destroy(obj_printer_paper)
 			}

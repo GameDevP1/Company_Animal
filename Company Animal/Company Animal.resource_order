@@ -60,7 +60,6 @@
     {"name":"obj_view_controller","order":13,"path":"objects/obj_view_controller/obj_view_controller.yy",},
     {"name":"spr_player_walk_left","order":1,"path":"sprites/spr_player_walk_left/spr_player_walk_left.yy",},
     {"name":"obj_cup","order":22,"path":"objects/obj_cup/obj_cup.yy",},
-    {"name":"Room3_meeting","order":2,"path":"rooms/Room3_meeting/Room3_meeting.yy",},
     {"name":"obj_inventory_item","order":16,"path":"objects/obj_inventory_item/obj_inventory_item.yy",},
     {"name":"spr_snack","order":4,"path":"sprites/spr_snack/spr_snack.yy",},
     {"name":"Sprite13","order":16,"path":"sprites/Sprite13/Sprite13.yy",},
