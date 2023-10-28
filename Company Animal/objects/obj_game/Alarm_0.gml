@@ -18,16 +18,4 @@ if global.day = 3
 	global.tasks = 3
 	global.timer = 180
 }
-task_counter=global.tasks
-while(task_counter>0){
-	if(num>=0 and num<=1){
-		instance_create_layer(x,y,"Instances", obj_printer)
-	}if(num>1 and num<=2){
-		instance_create_layer(x,y,"Instances", obj_vending)
-	}if(num>2 and num<=3){
-		instance_create_layer(x,y,"Instances", obj_waterCooler)
-	}
-	task_counter-=1
-	num=random_range(0,3)
-}
 alarm[0]=global.timer*room_speed
