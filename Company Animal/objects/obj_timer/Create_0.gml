@@ -1,7 +1,4 @@
 
-start_timer = true;
+start_timer = false;
 
-timer_max = 20000;
-timer = 20000;
-
-timer_current = 0;
+timer = 0;

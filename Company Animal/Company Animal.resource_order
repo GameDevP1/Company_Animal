@@ -69,6 +69,7 @@
     {"name":"Sprite13","order":16,"path":"sprites/Sprite13/Sprite13.yy",},
     {"name":"Office_Tileset","order":5,"path":"sprites/Office_Tileset/Office_Tileset.yy",},
     {"name":"spr_player_walk_up","order":3,"path":"sprites/spr_player_walk_up/spr_player_walk_up.yy",},
+    {"name":"rm_game3","order":6,"path":"rooms/rm_game3/rm_game3.yy",},
     {"name":"obj_ink_item","order":17,"path":"objects/obj_ink_item/obj_ink_item.yy",},
     {"name":"obj_safe_area","order":4,"path":"objects/obj_safe_area/obj_safe_area.yy",},
     {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
