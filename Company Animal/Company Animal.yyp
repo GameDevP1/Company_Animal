@@ -82,6 +82,7 @@
     {"id":{"name":"obj_enemy_test","path":"objects/obj_enemy_test/obj_enemy_test.yy",},},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
     {"id":{"name":"Sprite37","path":"sprites/Sprite37/Sprite37.yy",},},
+    {"id":{"name":"obj_pause","path":"objects/obj_pause/obj_pause.yy",},},
     {"id":{"name":"Path2","path":"paths/Path2/Path2.yy",},},
     {"id":{"name":"spr_enemy2_walk_left","path":"sprites/spr_enemy2_walk_left/spr_enemy2_walk_left.yy",},},
     {"id":{"name":"obj_view_controller","path":"objects/obj_view_controller/obj_view_controller.yy",},},
@@ -116,8 +117,8 @@
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
-    {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
     {"roomId":{"name":"rm_game3","path":"rooms/rm_game3/rm_game3.yy",},},
+    {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
   ],
   "templateType": null,
   "TextureGroups": [
