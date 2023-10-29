@@ -60,7 +60,6 @@
     {"name":"obj_enemy_test","order":3,"path":"objects/obj_enemy_test/obj_enemy_test.yy",},
     {"name":"rm_game","order":5,"path":"rooms/rm_game/rm_game.yy",},
     {"name":"Sprite37","order":24,"path":"sprites/Sprite37/Sprite37.yy",},
-    {"name":"obj_pause","order":25,"path":"objects/obj_pause/obj_pause.yy",},
     {"name":"spr_enemy2_walk_left","order":4,"path":"sprites/spr_enemy2_walk_left/spr_enemy2_walk_left.yy",},
     {"name":"obj_view_controller","order":13,"path":"objects/obj_view_controller/obj_view_controller.yy",},
     {"name":"spr_player_walk_left","order":1,"path":"sprites/spr_player_walk_left/spr_player_walk_left.yy",},
