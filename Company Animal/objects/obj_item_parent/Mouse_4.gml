@@ -4,7 +4,7 @@
 if (global.current_item > 0) {
 	if global.current_item = 1 {
 		instance_destroy();
-		instance_create_layer(mouse_x, mouse_y, "Instances", obj_snack_item);
+		instance_create_layer(mouse_x, mouse_y, "Instances", obj_vending_item);
 	}
 	if global.current_item = 2 {
 		instance_destroy();
@@ -19,7 +19,7 @@ if (global.current_item > 0) {
 		instance_create_layer(mouse_x, mouse_y, "Instances", obj_cup);
 	}
 	if global.current_item = 5 {
-	
+
 	}
 	if global.current_item = 6 {
 	
