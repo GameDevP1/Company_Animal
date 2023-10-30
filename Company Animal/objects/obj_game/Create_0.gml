@@ -29,6 +29,7 @@ if global.day = 1
 {
 	global.tasks = 2
 	global.timer = 10000
+	instance_create_layer(272,32,"Instances",obj_vending)
 	
 }
 if global.day = 2 

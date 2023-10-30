@@ -53,6 +53,7 @@ if (place_meeting(x, y, obj_safe_area )) {
 	
 }
 
+show_debug_message(global.current_item)
 
 
 
