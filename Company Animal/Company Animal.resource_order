@@ -42,7 +42,6 @@
     {"name":"obj_moving_npc3","order":4,"path":"objects/obj_moving_npc3/obj_moving_npc3.yy",},
     {"name":"spr_player_walk_right","order":2,"path":"sprites/spr_player_walk_right/spr_player_walk_right.yy",},
     {"name":"spr_pause_menu","order":13,"path":"sprites/spr_pause_menu/spr_pause_menu.yy",},
-    {"name":"spr_enemy3_walk_left","order":8,"path":"sprites/spr_enemy3_walk_left/spr_enemy3_walk_left.yy",},
     {"name":"spr_message_bubble","order":16,"path":"sprites/spr_message_bubble/spr_message_bubble.yy",},
     {"name":"obj_button_parent","order":9,"path":"objects/obj_button_parent/obj_button_parent.yy",},
     {"name":"obj_button_help","order":11,"path":"objects/obj_button_help/obj_button_help.yy",},
@@ -59,7 +58,6 @@
     {"name":"obj_vending","order":31,"path":"objects/obj_vending/obj_vending.yy",},
     {"name":"spr_coin","order":9,"path":"sprites/spr_coin/spr_coin.yy",},
     {"name":"Sprite4","order":2,"path":"sprites/Sprite4/Sprite4.yy",},
-    {"name":"spr_enemy3_walk_down","order":11,"path":"sprites/spr_enemy3_walk_down/spr_enemy3_walk_down.yy",},
     {"name":"spr_enemy1_walk_left","order":7,"path":"sprites/spr_enemy1_walk_left/spr_enemy1_walk_left.yy",},
     {"name":"spr_npc_walk_left","order":1,"path":"sprites/spr_npc_walk_left/spr_npc_walk_left.yy",},
     {"name":"spr_npc2_walk_right","order":6,"path":"sprites/spr_npc2_walk_right/spr_npc2_walk_right.yy",},
@@ -68,7 +66,6 @@
     {"name":"spr_npc2_walk_down","order":4,"path":"sprites/spr_npc2_walk_down/spr_npc2_walk_down.yy",},
     {"name":"snd_talking3","order":2,"path":"sounds/snd_talking3/snd_talking3.yy",},
     {"name":"spr_example_waterCooler","order":5,"path":"sprites/spr_example_waterCooler/spr_example_waterCooler.yy",},
-    {"name":"spr_enemy3_walk_right","order":9,"path":"sprites/spr_enemy3_walk_right/spr_enemy3_walk_right.yy",},
     {"name":"spr_button","order":6,"path":"sprites/spr_button/spr_button.yy",},
     {"name":"spr_enemy1_walk_right","order":6,"path":"sprites/spr_enemy1_walk_right/spr_enemy1_walk_right.yy",},
     {"name":"obj_enemy_test","order":3,"path":"objects/obj_enemy_test/obj_enemy_test.yy",},
@@ -93,11 +90,14 @@
     {"name":"obj_ink_item","order":17,"path":"objects/obj_ink_item/obj_ink_item.yy",},
     {"name":"obj_pause_menu","order":26,"path":"objects/obj_pause_menu/obj_pause_menu.yy",},
     {"name":"obj_game_over","order":27,"path":"objects/obj_game_over/obj_game_over.yy",},
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     {"name":"spr_enemy3_walk_up","order":10,"path":"sprites/spr_enemy3_walk_up/spr_enemy3_walk_up.yy",},
 =======
     {"name":"path_npc_path5","order":5,"path":"paths/path_npc_path5/path_npc_path5.yy",},
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 960b2f6 (Added snek boss)
     {"name":"obj_npc","order":2,"path":"objects/obj_npc/obj_npc.yy",},
     {"name":"obj_safe_area","order":4,"path":"objects/obj_safe_area/obj_safe_area.yy",},
     {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
