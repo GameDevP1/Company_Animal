@@ -28,18 +28,18 @@ global.item_num = -1;
 if global.day = 1 
 {
 	global.tasks = 2
-	global.timer = 10000
+	global.timer = 5000
 	
 }
 if global.day = 2 
 {
 	global.tasks = 2
-	global.timer = 10000
+	global.timer = 5000
 }
 if global.day = 3 
 {
 	global.tasks = 3
-	global.timer = 10000
+	global.timer = 5000
 }
 num = random_range(0,3)
 task_counter=global.tasks
