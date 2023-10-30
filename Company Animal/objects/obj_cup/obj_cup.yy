@@ -35,5 +35,5 @@
     "path": "sprites/spr_cup/spr_cup.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }

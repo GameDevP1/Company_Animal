@@ -9,7 +9,9 @@ if(num>=0 and num<=1){
 }if(num>3 and num<=4){
 	sprite_index=spr_snack
 }
+global.item_num=1
 if(distance_to_object(obj_player)<=50){
 	global.current_item=1
 	instance_destroy()
 }
+global.item_num=1

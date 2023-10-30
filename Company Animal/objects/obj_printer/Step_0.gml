@@ -14,7 +14,7 @@ if(distance_to_object(obj_player)<=50){
 			if global.current_item!=2 and instance_number(obj_ink_item)=0 then instance_create_layer(random(room_width),random(room_height),"Instances",obj_ink_item)
 			if global.current_item==2{
 				draw_text(x,y,"Well done!")
-				global.current_item= -1
+				//global.current_item= -1
 				obj_inventory_item.sprite_index = spr_invetory_slot
 				activity=1
 				global.tasks-=1

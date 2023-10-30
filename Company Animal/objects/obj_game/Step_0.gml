@@ -7,8 +7,6 @@ if global.tasks = 0 {
 	global.current_item=0
 }
 
-show_debug_message(global.day)
-
 
 
 

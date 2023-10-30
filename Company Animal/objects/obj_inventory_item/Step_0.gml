@@ -13,7 +13,7 @@
 	
 	
 if global.current_item = 1 {
-	sprite_index = obj_vending_item.sprite_index;
+	sprite_index = object_get_sprite(obj_vending_item);
 }
 if global.current_item = 2 {
 	sprite_index = spr_ink;
