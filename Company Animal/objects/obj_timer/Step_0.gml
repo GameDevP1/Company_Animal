@@ -1,25 +1,18 @@
 
 
+if (start_timer == true) {timer = global.timer}
 
-
-show_debug_message(timer);
-
-if (!pause) {
-	if (global.game_start == true) 
-	{
-		if (timer > 0)
+	if (!pause) {
+		if (global.game_start == true) 
 		{
-			timer--;
+			if (timer > 0)
+			{
+				timer--; // decrease timer
+			}
 		}
+		if (timer == 0)
+		{
+			obj_pause.pause = true;
+		}	
 	}
-}
 
-
-if (start_timer == true) {timer = room_speed * 30;}
-
-if (timer > 0) {timer--;}
-
-if (timer == 0)
-{
-	game_pause();
-}

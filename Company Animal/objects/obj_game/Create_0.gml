@@ -28,18 +28,17 @@ global.item_num = -1;
 if global.day = 1 
 {
 	global.tasks = 2
-	global.timer = 20000
-	
+	global.timer = 10000
 	
 }
 if global.day = 2 
 {
 	global.tasks = 2
-	global.timer = 20000
+	global.timer = 10000
 }
 if global.day = 3 
 {
 	global.tasks = 3
-	global.timer = 20000
+	global.timer = 10000
 }
-alarm[0]=global.timer*room_speed
+//alarm[0]=global.timer*room_speed

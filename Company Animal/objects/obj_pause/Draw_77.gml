@@ -1,4 +1,7 @@
+
+
 gpu_set_blendenable(false);
+
 
 if (pause) {
 
@@ -7,7 +10,7 @@ if (pause) {
 		else 
 		{
 			pause_surface = surface_create(resW,resH);
-			buffer_set_surface(pause_surface_buffer, pause_surface, 0);
+			//buffer_set_surface(pause_surface_buffer, pause_surface, 0);
 		}
 	surface_reset_target();
 }
@@ -43,5 +46,6 @@ if (keyboard_check_pressed(ord("P"))) {
 	}
 
 }
+
 
 gpu_set_blendenable(true);

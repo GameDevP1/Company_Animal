@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_pause_menu",
+  "name": "obj_game_over",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_game_over",
-    "path": "sprites/spr_game_over/spr_game_over.yy",
+    "name": "spr_pause_menu",
+    "path": "sprites/spr_pause_menu/spr_pause_menu.yy",
   },
   "spriteMaskId": null,
   "visible": true,

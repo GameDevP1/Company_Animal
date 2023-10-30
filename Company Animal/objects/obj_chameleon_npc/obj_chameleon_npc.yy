@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_pause_menu",
+  "name": "obj_chameleon_npc",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -9,7 +9,10 @@
     "name": "Objects",
     "path": "folders/Objects.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_npc",
+    "path": "objects/obj_npc/obj_npc.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -26,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_game_over",
-    "path": "sprites/spr_game_over/spr_game_over.yy",
+    "name": "spr_npc_walk_down",
+    "path": "sprites/spr_npc_walk_down/spr_npc_walk_down.yy",
   },
   "spriteMaskId": null,
   "visible": true,
